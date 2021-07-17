@@ -1,6 +1,7 @@
 # Weather-Forecasting
 Multivariate Time Series Weather Forecasting with LSTM using Jena Climate dataset by the Max Planck Institute for Biogeochemistry.
 
-
+![Capture3](https://user-images.githubusercontent.com/67474853/126035500-4dcd848f-3312-4aa1-a9bc-19dbc8c55158.JPG)
+![Capture666](https://user-images.githubusercontent.com/67474853/126035502-3eb1042e-39ce-4b79-80be-af7a18a4cf58.JPG)
 
 Rainfall Prediction using Facebook Neuralprophet.
